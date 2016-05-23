@@ -1,7 +1,7 @@
 // Interviewers, choose a problem from the options below:
 
 
-
+// Inteviewees, remember to frame your problem into smaller problems. Know your input and expected output. Use your interviewer as your Google or Stack Overflow
 
 
 
@@ -133,4 +133,128 @@ var truncate = function(str, num) {
   // Your Code Here
   
 }
+
+
+
+
+/*********************************************************************************************************************/
+
+
+/*
+
+Create a function named `first` that takes in an array as the first parameter and returns the first element in the array.
+
+Your function also takes in a number as an optional second parameter. If a number is passed in as the second argument, you must return that number of elements in the array.
+
+
+Example:
+
+var nums = [1, 2, 3, 4, 5];
+
+var getFirstNum = first(num) 
+
+console.log(getFirstNum) // 1
+
+var getFirstTwoNums = first(num, 2);
+
+console.log(getFirstTwoNums) // [1, 2]
+
+
+*/
+
+var first;
+
+
+
+/*********************************************************************************************************************/
+
+
+
+/*
+Create a function named `last` that takes in an array as the first parameter and returns the last element in the array.
+
+Your function also takes in a number as an optional second parameter. If a number is passed in as the second argument, you must return that number of the last elements in the array. 
+
+Example:
+
+var nums = [1, 2, 3, 4, 5];
+
+var getLastNum = last(num) 
+
+console.log(getLastNum) // 5
+
+var getLastTwoNums = last(num, 2);
+
+console.log(getLastTwoNums) // [4, 5]
+*/
+
+var last;
+
+
+
+/*********************************************************************************************************************/
+
+
+
+
+/*
+
+
+Takes in two parameters, an object and a target, and returns the target if it corresponds with a property inside of the object.
+
+If not, it returns 'target not found' to the user.
+
+
+
+*/
+
+
+var pluckTargetFromObject;
+
+
+/*********************************************************************************************************************/
+
+
+
+/*
+
+Takes in an object, property, and value as parameters and adds the property and value to the object.
+If the property already exists, overwrite it's current value with the new value.
+Return the object to the user.
+
+
+*/
+
+var addPropertyAndValue;
+
+
+/*********************************************************************************************************************/
+
+
+
+/*
+
+sumArray is a functions that takes in an array of numbers and returns the sum of all the numbers that are in the array
+
+*/
+
+var sumArray;
+
+
+
+/*********************************************************************************************************************/
+
+
+
+/*
+
+allNumbersEven is a function that takes in an array of numbers as a parameter
+
+Iterates through an array and returns true is every number is even
+
+Otherwise return false
+
+*/
+
+var allNumbersEven;
 
