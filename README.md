@@ -12,7 +12,7 @@ Whether you are interviewing for a software engineering position or interviewing
   * Great Work Ethic
 
 
-This sprint is focused on practicing some the important soft skills that are listed above which will put you in a better position to interview for Telegraph Academy. You, along with your pair, will take turns interviewing one another for 60 minutes total. You will take turns being the interviewer and the interviewee for 25 minutes each with 5 minutes of feedback time which brings it to 30 minutes for each individual. There are algorithms that are listed in prompts.js. Lets take a look at the roles:
+This sprint is focused on practicing some of the important soft skills that are listed above which will put you in a better position to interview for Telegraph Academy. You, along with your pair, will take turns interviewing one another for 60 minutes each. You will take turns being the interviewer and the interviewee for 25 minutes each with 5 minutes of feedback time which brings it to 30 minutes for each individual. There are algorithms listed in prompts.js. Let's take a look at the roles:
 
 
 ##Interviewer:
