@@ -202,3 +202,31 @@ var addPropertyAndValue = function(object, property, value) {
   // Your Code Here
 };
 
+
+/*********************************************************************************************************************/
+
+/* 
+Call iterator(value, key, collection) for each element of collection.
+Accepts both arrays and objects.
+
+Note: _.each does not have a return value, but rather simply runs the
+iterator function over each item in the input collection.
+*/
+
+var each = function(collection, iterator) {
+  // Your Code Here
+};
+
+
+/*********************************************************************************************************************/
+
+/*  
+Return the results of applying an iterator to each element.
+
+map() is a useful primitive iteration function that works a lot
+like each(), but in addition to running the operation on all
+the members, it also maintains an array of results.
+*/
+  var map = function(collection, iterator) {
+  // Your Code Here
+  };
